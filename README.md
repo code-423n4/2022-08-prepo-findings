@@ -1,5 +1,3 @@
-🚨Placeholder Repo for solo contest. 🚨 Do Not Delete. 🚨
-
 # prePO Solo Audit by cccz
 
 
