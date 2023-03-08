@@ -1,3 +1,11 @@
+---
+sponsor: "prePO"
+slug: "2022-08-prepo"
+date: "2022-09-06"  
+title: "prePO Solo Audit by cccz"
+findings: ""
+contest: 158
+---
 
 # Overview
 
